@@ -3,14 +3,7 @@
 Engineer in Progress ⚡ | Aspiring Cloud & Software Developer ☁️💻 | Building Skills at DEI, Agra
 Email Me 👉 ✉️ **Priyanshu98377@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-🔭 I’m currently working on: Electrical Engineering projects and beginner-level programming projects (C & Python)
-🌱 I’m currently learning: C Programming, Python, Data Structures, and Core Electrical Engineering concepts
-👯 I’m looking to collaborate on: Beginner-friendly software projects, open-source contributions, and engineering-based applications
-🤔 I’m looking for help with: Improving coding skills, real-world project development, and open-source guidance
-💬 Ask me about: Electrical Engineering basics, C programming, and beginner tech guidance
-📫 How to reach me: Priyanshu98377@gmail.com
-😄 Pronouns: He/Him
-⚡ Fun fact: I love technology, and I’m always curious to learn how things work
+I am currently working on Electrical Engineering projects along with beginner-level programming in C and Python, while continuously learning Data Structures and core engineering concepts. I am interested in collaborating on beginner-friendly software and open-source projects to gain practical experience and improve my coding skills. You can ask me about Electrical Engineering basics and C programming, and feel free to reach out at **[Priyanshu98377@gmail.com](mailto:Priyanshu98377@gmail.com)**. I use He/Him pronouns, and I’m always curious about technology and how things work.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PRIYANSHU98377&theme=radical&no-frame=false&no-bg=true&margin-w=4)
