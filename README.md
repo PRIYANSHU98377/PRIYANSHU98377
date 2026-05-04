@@ -4,20 +4,28 @@ Engineer in Progress ⚡ | Aspiring Cloud & Software Developer ☁️💻 | Buil
 Email Me 👉 ✉️ **Priyanshu98377@gmail.com ** For Collaboration/Project or Anything Else. 😊😊
 
 🔭 I’m currently working on: Electrical Engineering projects and beginner-level programming projects (C & Python)
+
 🌱 I’m currently learning: C Programming, Python, Data Structures, and Core Electrical Engineering concepts
+
 👯 I’m looking to collaborate on: Beginner-friendly software projects, open-source contributions, and engineering-based applications
+
 🤔 I’m looking for help with: Improving coding skills, real-world project development, and open-source guidance
+
 💬 Ask me about: Electrical Engineering basics, C programming, and beginner tech guidance
+
 📫 How to reach me: Priyanshu98377@gmail.com
+
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: I love technology, and I’m always curious to learn how things work
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PRIYANSHU98377&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/priyanshu_kumar.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyanshukumar1005/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Priyanshu98377@gmail.com) 
 
 <!-- Snake Game Repo View -->
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
@@ -29,8 +37,6 @@ Email Me 👉 ✉️ **Priyanshu98377@gmail.com ** For Collaboration/Project or 
 ![](https://streak-stats.demolab.com/?user=PRIYANSHU98377&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=PRIYANSHU98377&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PRIYANSHU98377&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
