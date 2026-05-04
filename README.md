@@ -1,22 +1,15 @@
 💫 Hi 👋, I'm Priyanshu Kumar
-Engineer in Progress ⚡ | Aspiring Cloud & Software Developer ☁️💻 | Building Skills at DEI, Agra
 
+Engineer in Progress ⚡ | Aspiring Cloud & Software Developer ☁️💻 | Building Skills at DEI, Agra
 Email Me 👉 ✉️ **Priyanshu98377@gmail.com ** For Collaboration/Project or Anything Else. 😊😊
 
 🔭 I’m currently working on: Electrical Engineering projects and beginner-level programming projects (C & Python)
-
 🌱 I’m currently learning: C Programming, Python, Data Structures, and Core Electrical Engineering concepts
-
 👯 I’m looking to collaborate on: Beginner-friendly software projects, open-source contributions, and engineering-based applications
-
 🤔 I’m looking for help with: Improving coding skills, real-world project development, and open-source guidance
-
 💬 Ask me about: Electrical Engineering basics, C programming, and beginner tech guidance
-
 📫 How to reach me: Priyanshu98377@gmail.com
-
 😄 Pronouns: He/Him
-
 ⚡ Fun fact: I love technology, and I’m always curious to learn how things work
 
 ## 🏆 GitHub Trophies
