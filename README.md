@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Priyanshu Kumar  
 
-⚡ **Engineer in Progress** | ☁️ **Aspiring Cloud & Software Developer** | 🎓 **DEI, Agra**  
+⚡ **Engineer in Progress** | ☁️ **Aspiring Cloud & Software Developer** 
 
 📩 **Let’s connect:** **Priyanshu98377@gmail.com**  
 Feel free to reach out for collaboration, projects, or just a tech discussion 😊  
