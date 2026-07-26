@@ -8,7 +8,7 @@ Feel free to reach out for collaboration, projects, or just a tech discussion �
 ---
 
 ## 🚀 About Me  
-I am an Electrical Engineering student who is actively building a strong foundation in both core engineering and programming. Currently, I am working on Electrical Engineering projects alongside beginner-level coding in **C** and **Python**, while continuously learning **Data Structures** and real-world problem-solving skills.  
+I am an 2nd year Electrical Engineering student who is actively building a strong foundation in both core engineering and programming. Currently, I am working on Electrical Engineering projects alongside beginner-level coding in **C** and **Python**, while continuously learning **Data Structures** and real-world problem-solving skills.  
 
 I’m highly interested in collaborating on beginner-friendly software projects and open-source contributions to gain practical experience and grow as a developer. I enjoy sharing knowledge, so you can ask me about Electrical Engineering basics or programming fundamentals anytime.  
 
